@@ -27,15 +27,14 @@ const Home = () => {
       </div>
       <div className='h-1/6 mt-auto flex items-end'>
           <text className='w-full flex flex-col justify-center items-center mb-4'>
-              © Copyright reGuard | 2022
+              © Copyright reGuard | 2023
         </text>
       </div>
       
     </div>
   )
 }
-export const getStaticProps = async ({ locale }) => (
-{
+export const getStaticProps = async ({ locale }) => ({
   props: {
     ...await serverSideTranslations(locale, ['common']),
   },

@@ -9,7 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "husky": "^8.0.1",
+    "i18next": "^21.9.0",
+    "i18next-browser-languagedetector": "^6.1.5",
+    "i18next-xhr-backend": "^3.2.2",
+    "lint-staged": "^13.0.3",
     "next": "12.2.5",
+    "next-i18next": "^11.3.0",
+    "prettier": "^2.7.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
