@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "commitlint": "^17.0.3",
     "husky": "^8.0.1",
     "i18next": "^21.9.0",
     "i18next-browser-languagedetector": "^6.1.5",
