@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <div className='h-screen flex flex-col'>
       <div className='h-1/6'>
-        <Header router={router}/>
+        <Header/>
       </div>
       <div className='h-2/6 flex flex-col items-center justify-center'>
         <Logo/>

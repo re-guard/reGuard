@@ -1,11 +1,12 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 
+export default function Header() {
 
-export default function Header(props) {
-
-    const { router }  = props;
-    console.log(router.locale)
+  const router = useRouter()
+  console.log("router", router)
+    
     return (
       <div className='w-full h-full flex flex-row justify-end'>
         <Link href='/' locale={router.locale === 'en' ? 'zh' : 'en'}>
