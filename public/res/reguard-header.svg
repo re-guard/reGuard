@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="31px" viewBox="0 0 134 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="仪表盘" transform="translate(-107.000000, -99.000000)">
+            <g id="头部" transform="translate(76.000000, 80.000000)">
+                <g id="Group-5" transform="translate(31.000000, 19.000000)">
+                    <g id="Group-2" stroke-width="2.04599242">
+                        <g id="Group" transform="translate(14.500000, 14.500000) rotate(-179.000000) translate(-14.500000, -14.500000) translate(0.246586, 0.246586)" stroke="#000000">
+                            <path d="M22.9839757,5.19457748 C23.7429294,13.5279384 23.3080246,18.8458839 21.2869402,20.8962594 C19.2616667,22.9508847 13.818656,23.6061327 5.20087184,23.2196658 L5.20087184,23.2196658 L5.20087184,5.19457748 Z" id="Rectangle" transform="translate(14.253414, 14.253414) rotate(45.000000) translate(-14.253414, -14.253414) "></path>
+                        </g>
+                        <g id="Group" transform="translate(14.438295, 14.689474) rotate(-1.000000) translate(-14.438295, -14.689474) translate(7.381012, 7.632191)" stroke="#1C1D2F">
+                            <path d="M10.9076871,3.08846836 C11.2133404,6.68777062 11.0826875,9.05985671 10.171963,9.98378016 C9.25699041,10.9120132 6.82597805,11.1470936 3.09158488,11.0020726 L3.09158488,11.0020726 L3.09158488,3.08846836 Z" id="Rectangle" transform="translate(7.057283, 7.057283) rotate(45.000000) translate(-7.057283, -7.057283) "></path>
+                        </g>
+                    </g>
+                    <text id="reGuard" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN" font-size="25.280283" font-weight="normal">
+                        <tspan x="32" y="24" fill="#1C1D2F">re</tspan>
+                        <tspan x="57.4319647" y="24" fill="#0169FF">Guard</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
