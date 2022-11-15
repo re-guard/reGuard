@@ -6,3 +6,8 @@
 {
     width: 400px;
 }
+
+.sideNav
+{
+    transition: 0.5s;
+}
