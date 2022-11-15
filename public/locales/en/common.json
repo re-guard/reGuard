@@ -1,5 +1,6 @@
 {
 
     "placeholder": "Search By Your Project ID",
-    "continue": "Continue With Project ID"
+    "continue": "Continue With Project ID",
+    "generate uuid": "Generate uuid"
 }

@@ -1,4 +1,5 @@
 {
     "placeholder": "通过Project ID 搜索",
-    "continue": "继续"
+    "continue": "继续",
+    "generate uuid": "生成 UUID"
 }
