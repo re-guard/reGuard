@@ -5,8 +5,7 @@ import { useRouter } from 'next/router'
 export default function Header() {
 
   const router = useRouter()
-  console.log("router", router)
-    
+
     return (
       <div className='w-full h-full flex flex-row justify-end'>
         <Link href='/' locale={router.locale === 'en' ? 'zh' : 'en'}>
